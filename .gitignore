@@ -1,0 +1,7 @@
+/.buildignore
+/.eslintignore
+/.eslintrc.json
+/build.mjs
+/mod.code-workspace
+/tsconfig.json
+/types
